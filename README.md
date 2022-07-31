@@ -9,7 +9,7 @@ Application Demo Link: https://youtu.be/oe0tjP0MRtY
 I mainly worked on the **back-end** of the application, using Firebase's Realtime Database Service to store information of Singapore Educational institutions into Firebase directly. I also used Firebase's built-in Unity API to retrieve and query the desired information for the front-end that was built using Unity. 
 
 ## Tech Stack
-C#, Firebase
+C#, Unity, Firebase
 
 ## Links
 Unity Project File and Demo Video: 
